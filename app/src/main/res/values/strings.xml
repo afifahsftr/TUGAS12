@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TUGAS12</string>
+<string-array name="fakultas_array">
+    <item>FT</item>
+    <item>FISIP</item>
+    <item>FKDK</item>
+    <item>FTI</item>
+    <item>FEB</item>
+</string-array>
+</resources>

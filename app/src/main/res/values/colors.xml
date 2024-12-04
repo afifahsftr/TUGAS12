@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Soft Colors -->
+    <color name="soft_purple">#D1C4E9</color>  <!-- Soft Purple -->
+    <color name="soft_purple_variant">#B39DDB</color>  <!-- Soft Purple Variant -->
+    <color name="soft_white">#F5F5F5</color>  <!-- Soft White -->
+    <color name="soft_black">#424242</color>  <!-- Soft Black -->
+</resources>
